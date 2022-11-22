@@ -4,52 +4,52 @@
 
 As the Club is a thematic instance, we distinguish between on-topic and off-topic content. Examples of on-topic content include (but are not limited to):
 
-    - Album reviews
-    - What you are listening to right now (see #NowPlaying)
-    - Five records to introduce yourself (see #MyFiveRecords)
-    - Discovering new music (see #CrateDigging, #BandcampFriday)
-    - Song lyrics that are meaningful or interesting to you
-    - Photography, clips, and media from live concerts
-    - Cool album art
-    - How Stevie Wonder's Superstition is the greatest groove ever recorded
+- Album reviews
+- What you are listening to right now (see #NowPlaying)
+- Five records to introduce yourself (see #MyFiveRecords)
+- Discovering new music (see #CrateDigging, #BandcampFriday)
+- Song lyrics that are meaningful or interesting to you
+- Photography, clips, and media from live concerts
+- Cool album art
+- How Stevie Wonder's Superstition is the greatest groove ever recorded
 
 ## 1.2 Posting Off-Topic Content
 
 Off-topic content include anything not directly related to music, musical production, consumption, listening, or playing. Off-topic tooting on the Club is permitted, provided you adhere to the following guidelines:
 
-    - The majority of your toots are on-topic
-    - Off-topic toots are a combination of Unlisted/"Followers-Only", marked with a Content Warning, and/or tagged with an appropriate hashtag so folks can easily ignore, mute, or filter them.
+- The majority of your toots are on-topic
+- Off-topic toots are a combination of Unlisted/"Followers-Only", marked with a Content Warning, and/or tagged with an appropriate hashtag so folks can easily ignore, mute, or filter them.
 
 ## 1.3 Sensitive Content
 
 Apply a Content Warning to any toot depicting or discussing content that may be upsetting or triggering to others. Examples of sensitive content include (but are not limited to):
 
-    - Violence
-    - Blood / gore
-    - Nudity 
-    - Sexually-explicit material
-    - Abuse
+- Violence
+- Blood / gore
+- Nudity 
+- Sexually-explicit material
+- Abuse
 
 ## 1.4 Prohibited Content
 
 The advocation for or promotion of the following topics is expressly prohibited on the Club:
 
-    - Advertising (except promoting your own original works)
-    - Spam
-    - Racism 
-    - Sexism
-    - Ableism
-    - Fatmisia
-    - Xenophobia
-    - Violent nationalism
-    - National Socialism, Holocaust denial, or Nazi symbolism
-    - Discrimination against any group, including but not limited to gender and sexual minorities, those who are neurodivergent, physically disabled, or mentally ill
-    - Sexual depictions of minors
-    - Content that defames, harasses or threatens others
-    - Content that infringes or misappropriates another’s intellectual property rights, including, but not limited to, copyrights, trademarks, or trade secrets
-    - Content that otherwise harms other users in the Fediverse
-    - Content that interferes with or disrupts any user, host, or network, for example by sending a virus, overloading, flooding, or spamming the Club or other users or hosts 
-    - Content that plants malware or otherwise uses the Club to distribute malware
+- Advertising (except promoting your own original works)
+- Spam
+- Racism 
+- Sexism
+- Ableism
+- Fatmisia
+- Xenophobia
+- Violent nationalism
+- National Socialism, Holocaust denial, or Nazi symbolism
+- Discrimination against any group, including but not limited to gender and sexual minorities, those who are neurodivergent, physically disabled, or mentally ill
+- Sexual depictions of minors
+- Content that defames, harasses or threatens others
+- Content that infringes or misappropriates another’s intellectual property rights, including, but not limited to, copyrights, trademarks, or trade secrets
+- Content that otherwise harms other users in the Fediverse
+- Content that interferes with or disrupts any user, host, or network, for example by sending a virus, overloading, flooding, or spamming the Club or other users or hosts 
+- Content that plants malware or otherwise uses the Club to distribute malware
 
 Users are permitted to discuss depictions of these topics as they appear in media, provided they are treated as *Sensitive Content*; see section 1.3.
 
@@ -63,9 +63,9 @@ Cross-posting from other social media platforms to the Club is not permitted.
 
 Bots are permitted under the following requirements:
 
-    - Bots must be pre-approved by the Club moderation team
-    - Bots are restricted to on-topic content only; see section 1.1
-    - All toots by bots must be tagged with #bot to permit easy muting/filtering
+- Bots must be pre-approved by the Club moderation team
+- Bots are restricted to on-topic content only; see section 1.1
+- All toots by bots must be tagged with #bot to permit easy muting/filtering
 
 ## 2.3 External Use
 
