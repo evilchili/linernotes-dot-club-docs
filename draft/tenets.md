@@ -1,0 +1,12 @@
+# Drafting the Linernotes.Club Code of Conduct and Server Rules
+
+https://linernotes.club (hereafter "the Club") is a mastodon instance owned and operated by @djsundog, administered and moderated by @djsundog, @evilchili, and @dustin. At the time of writing (November, 2022) it hosts 125 active users. To date, its code of conduct has been fairly generic, and specifically references the Code of Conduct of https://toot.cafe. Although the Club remains small, as the number of active users grows, we believe it is appropriate to establish our own rules. The purpose of this document is to codify the tenets that will guide our drafting of two documents: a Code of Conduct ("the CoC") and the Server Rules ("the Rules").
+
+## Tenets
+
+1. **Open is better than closed.** We believe the Fediverse works best when users exercise their own agency. We prefer individual action, such as blocking another instance, over instance-level policy changes, such as defederation.
+1. **You are responsible for moderating your own experience.** Mastodon and similar platforms provide a rich set of tools for individuals to moderate their own experience on the Fediverse; you should use them. Instance moderators are not responsible for your safety or comfort.
+1. **You are responsible for moderating your own conduct.** Instance moderators will not actively manage user behaviour. 
+1. **Moderators exist to enforce the CoC and the Rules.** Moderators investigate and resolve reports of the Club's users violating its CoC or the Rules, but are not responsible for teaching people how to behave.
+1. **Administrators define the rules concerning federation.** Which instances the Club chooses to federate with and which are silenced, blocked, or suspended is determined by instance administrators or their delegates.
+1. **Moderators are the voice of the Club.** While ultimate authority for content moderation and federation policy rests with moderators and administrators respectively, moderation decisions and changes to the CoC or the Rules should reflect the general consensus of the Club's active users.
