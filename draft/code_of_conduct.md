@@ -47,5 +47,5 @@ If you believe someone is violating the code of conduct, we ask that you report 
 
 ## Sources
 
-Inspiration for this Code of Conduct was found in [https://www.djangoproject.com/conduct/](The Django Project), [https://mastodon.art](Mastodon.ART) and many others. Portions of the Terms of Use were adapted from [Coursera's policies](https://www.coursera.org/about/terms).
+Inspiration for this Code of Conduct was found in [The Django Project](https://www.djangoproject.com/conduct/), [Mastodon.ART](https://mastodon.art) and many others. Portions of the Terms of Use were adapted from [Coursera's policies](https://www.coursera.org/about/terms).
 
