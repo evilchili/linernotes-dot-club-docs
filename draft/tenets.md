@@ -5,8 +5,8 @@ https://linernotes.club (hereafter "the Club") is a mastodon instance owned and 
 ## Tenets
 
 1. **Open is better than closed.** We believe the Fediverse works best when users exercise their own agency. We prefer individual action, such as blocking another instance, over instance-level policy changes, such as defederation.
-1. **You are responsible for moderating your own experience.** Mastodon and similar platforms provide a rich set of tools for individuals to moderate their own experience on the Fediverse; you should use them. Instance moderators are not responsible for your safety or comfort.
-1. **You are responsible for moderating your own conduct.** Instance moderators will not actively manage user behaviour. 
+1. **You are responsible for moderating your own experience.** Mastodon provides a rich set of tools for individuals to moderate their own experience on the Fediverse; you should use them. Instance moderators are not responsible for your safety or comfort.
+1. **You are responsible for moderating your own conduct.** The availability of personal moderation tools for others does not imply freedom from accountability for you.
 1. **Moderators exist to enforce the CoC and the Rules.** Moderators investigate and resolve reports of the Club's users violating its CoC or the Rules, but are not responsible for teaching people how to behave.
 1. **Administrators define the rules concerning federation.** Which instances the Club chooses to federate with and which are silenced, blocked, or suspended is determined by instance administrators or their delegates.
 1. **Moderators are the voice of the Club.** While ultimate authority for content moderation and federation policy rests with moderators and administrators respectively, moderation decisions and changes to the CoC or the Rules should reflect the general consensus of the Club's active users.
