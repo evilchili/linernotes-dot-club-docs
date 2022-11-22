@@ -12,7 +12,7 @@ PLEASE READ THIS TERMS OF USE AGREEMENT (THE "TERMS OF USE") CAREFULLY BEFORE RE
 
 ## Server Rules
 
-Participants on the Club must adhere to the Server Rules. By accessing the Club, you hereby represent that you have read the Server Rules and agree to comply with them.
+Participants on the Club must adhere to the Server Rules [LINK]. By accessing the Club, you hereby represent that you have read the Server Rules and agree to comply with them.
 
 ## Age Restrictions
 
