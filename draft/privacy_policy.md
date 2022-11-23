@@ -11,7 +11,7 @@ Privacy features included on linernotes.club:
 - EXIF data (GPS location, date, camera type, etc.) is stripped from images and never stored.
 - Crawlers are blocked in robots.txt.
 - Transport security is provided via TLS.
-- There are No ads or trackers on the Club; links are direct URLs rather than tracking redirects.
+- There are no ads or trackers on the Club; links are direct URLs rather than tracking redirects.
 
 
 ## What information do we collect?
@@ -40,9 +40,9 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We will make a good faith effort to:
 
-Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.
+- Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.
+- Retain the IP addresses associated with registered users no more than 12 months.
 
-Retain the IP addresses associated with registered users no more than 12 months.
 You can request and download an archive of your content, including your toots, media attachments, profile picture, and header image.
 
 You may irreversibly delete your account at any time.
