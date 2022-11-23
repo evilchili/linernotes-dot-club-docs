@@ -116,5 +116,4 @@ Users who cannot moderate their own behaviour, their own safety, or resolve disp
 
 We strongly believe that the Fediverse works best when users exercise their own agency. Accordingly, we prefer individual actions such as users muting or blocking other users and instances over instance-level policy changes such as defederation.
 
-However, the Club's administrators and their delegates will summarily and with prejudice 
-silence or block (defederate) from instances whose users regularly violate our Code of Conduct. You may comport yourself however you wish; we are not required to provide you a platform to do so.
+However, the Club's administrators and their delegates will summarily and with prejudice silence or block (defederate from) instances whose users regularly violate our Code of Conduct. You may comport yourself however you wish; we are not required to provide you a platform to do so.

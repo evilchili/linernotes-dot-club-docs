@@ -14,6 +14,9 @@ The Club's administrators and moderators are:
 - @dustin
 - @evilchili
 
+To contact the Administration team with questions or concerns, please use the contact email address listed on http://linernotes.club or message the admin team directly on Mastodon.
+
+
 # Terms of Use
 
 PLEASE READ THIS TERMS OF USE AGREEMENT (THE "TERMS OF USE") CAREFULLY BEFORE REGISTERING OR PARTICIPATING IN LINER NOTES CLUB ("THE CLUB") AT ENTRY-POINT URL https://linernotes.club. BY USING THE CLUB, YOU SIGNIFY AND ACKNOWLEDGE THAT YOU HAVE READ THE TERMS OF USE AND AGREE TO BE BOUND BY AND COMPLY WITH THE TERMS OF USE. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF USE, PLEASE DO NOT ACCESS THE CLUB.
@@ -22,9 +25,14 @@ PLEASE READ THIS TERMS OF USE AGREEMENT (THE "TERMS OF USE") CAREFULLY BEFORE RE
 
 Participants on the Club must adhere to the Server Rules [LINK]. By accessing the Club, you hereby represent that you have read the Server Rules and agree to comply with them.
 
+## Govering Law 
+
+Liner Notes Club is located in Georgia, United States of America. You agree that these Terms will be governed by the laws of the State of Georgia, excluding its conflicts of law provisions. 
+
 ## Age Restrictions
 
-Registration and participation on the Club is restricted to those individuals over 18 years of age, emancipated minors, or those who possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties herein. By registering or participating in services or functions of the Club, you hereby represent that you are over 18 years of age, an emancipated minor or in possession of consent by a legal parent or guardian and have the authority to enter into the terms herein. In any case, you affirm that you are over the age of 13 as the Club is not intended for children under 13. If you are under 13 years of age, do not use the Club. In addition, those who wish to register and participate must meet the minimum requirements laid out in the Terms of Use (this document) herein. If you do not qualify or do not agree to these terms, you may not use the Club.
+Registration and participation on the Club is restricted to those individuals over 18 years of age, emancipated minors, or those who possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties herein. By registering or participating in services or functions of the Club, you hereby represent that you are over 18 years of age, an emancipated minor or in possession of consent by a legal parent or guardian and have the authority to enter into the terms herein. In any case, you affirm that you are over the age of 13 as the Club is not intended for children under 13, per the requirement of COPPA (Children's Online Privacy Proteciton Act). If you are under 13 years of age, do not use the Club. In addition, those who wish to register and participate must meet the minimum requirements laid out in the Terms of Use (this document) herein. If you do not qualify or do not agree to these terms, you may not use the Club.
+
 
 ## Right of Modification
 
