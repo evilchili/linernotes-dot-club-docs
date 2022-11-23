@@ -22,7 +22,7 @@ Off-topic content include anything not directly related to music, musical produc
 
 ## 1.3 Sensitive Content
 
-Apply a Content Warning to any toot depicting or discussing content that may be upsetting or triggering to others. Examples of sensitive content include (but are not limited to):
+Apply a Content Warning to any toot depicting or discussing content that may be upsetting or triggering to others. Examples of sensitive content include but are not limited to:
 
 - Violence
 - Blood / gore
@@ -54,6 +54,17 @@ The advocation for or promotion of the following topics is expressly prohibited 
 - Content that plants malware or otherwise uses the Club to distribute malware
 
 Users are permitted to discuss depictions of these topics as they appear in media, provided they are treated as *Sensitive Content*; see section 1.3.
+
+Content Warnings are not expected on posts made by historically or socially marginalised people about their own marginalisation.
+
+
+## 1.5 Accesibility
+
+In addition to the liberal use of Content Warnings for *Off-Topic Content* or *Sensitive Content* (see sections 1.2 and 1.3), we have the following accessibility requirements:
+
+- Images and videos must be captioned with a description suitable for users with limited vision.
+- Hashtags composed of multiple words must be composed with [CamelCase](https://en.wikipedia.org/wiki/Camel_case), to make them accessible to assistive technologies such as screen readers.
+
 
 # 2. Platform Restrictions
 
