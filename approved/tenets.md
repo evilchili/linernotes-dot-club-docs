@@ -1,6 +1,6 @@
 # Drafting the Linernotes.Club Code of Conduct and Server Rules
 
-https://linernotes.club (hereafter "the Club") is a mastodon instance owned and operated by @djsundog, administered and moderated by @djsundog, @evilchili, and @dustin. At the time of writing (November, 2022) it hosts 125 active users. To date, its code of conduct has been fairly generic, and specifically references the Code of Conduct of https://toot.cafe. Although the Club remains small, as the number of active users grows, we believe it is appropriate to establish our own rules. The purpose of this document is to codify the tenets that will guide our drafting of two documents: a Code of Conduct ("the CoC") and the Server Rules ("the Rules").
+https://linernotes.club (hereafter "the Club") is a Mastodon instance owned and operated by @djsundog, administered and moderated by @djsundog, @evilchili, and @dustin. At the time of writing (November, 2022) it hosts 125 active users. To date, its code of conduct has been fairly generic, and specifically references the Code of Conduct of https://toot.cafe. Although the Club remains small, as the number of active users grows, we believe it is appropriate to establish our own rules. The purpose of this document is to codify the tenets that will guide our drafting of two documents: a Code of Conduct ("the CoC") and the Server Rules ("the Rules").
 
 ## Tenets
 

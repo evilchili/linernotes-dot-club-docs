@@ -4,7 +4,7 @@ This privacy policy describes how Liner Notes Club ("The Club", "linernotes.club
 
 ## TL;DR
 
-We do not sell, trade, or otherwise transfer to outside parties your personally-identifiable information. However, Administrators have access to all content you post on linernotes.club, including DMs. The back-end datastore is not encrypted. **Do not user linernotes.club to transmit sensitive information.** If this is not okay with you, please do not use the Club.
+We do not sell, trade, or otherwise transfer to outside parties your personally-identifiable information. However, Administrators have access to all content you post on linernotes.club, including DMs. The back-end datastore is not encrypted. **Do not use linernotes.club to transmit sensitive information.** If this is not okay with you, please do not use the Club.
 
 Privacy features included on linernotes.club:
 
