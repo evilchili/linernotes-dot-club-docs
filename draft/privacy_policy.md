@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy describes how Liner Notes Club ("The Club", "linernotes.club", "we", "us") collects, protects and uses the personally identifiable information you may provide through the linernotes.club website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that mastodon.social does not own or control, or to individuals that mastodon.social does not employ or manage.
+This privacy policy describes how Liner Notes Club ("The Club", "linernotes.club", "we", "us") collects, protects and uses the personally identifiable information you may provide through the linernotes.club website or its API. The policy also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This policy does not apply to the practices of companies that linernotes.club does not own or control, or to individuals that linernotes.club does not employ or manage.
 
 ## TL;DR
 
@@ -9,7 +9,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally-
 Privacy features included on linernotes.club:
 
 - EXIF data (GPS location, date, camera type, etc.) is stripped from images and never stored.
-- Crawlers are blocked in robots.txt.
+- Crawlers are blocked in robots.txt. [WE ONLY DISALLOW /media_proxy/ & /interact/]
 - Transport security is provided via TLS.
 - There are no ads or trackers on the Club; links are direct URLs rather than tracking redirects.
 
@@ -18,7 +18,7 @@ Privacy features included on linernotes.club:
 
 **Basic account information:** If you register on this server, you may be asked to enter a username, an e-mail address and a password. You may also enter additional profile information such as a display name and biography, and upload a profile picture and header image. The username, display name, biography, profile picture and header image are always listed publicly.
 
-**Posts, following and other public information:** The list of people you follow is listed publicly, the same is true for your followers. When you submit a message, the date and time is stored as well as the application you submitted the message from. Messages may contain media attachments, such as pictures and videos. Public and unlisted toots are available publicly. When you feature a toots on your profile, that is also publicly available information. Your toots are delivered to your followers, in some cases it means they are delivered to different servers and copies are stored there. When you delete toots, this is likewise delivered to your followers. The action of boosting or favouriting another toots is always public.
+**Posts, following and other public information:** The list of people you follow is listed publicly, the same is true for your followers. When you submit a message, the date and time is stored as well as the application you submitted the message from. Messages may contain media attachments, such as pictures and videos. Public and unlisted toots are available publicly. When you feature a toot on your profile, that is also publicly available information. Your toots are delivered to your followers, in some cases it means they are delivered to different servers and copies are stored there. When you delete toots, this is likewise delivered to your followers. The action of boosting or favouriting another toots is always public.
 
 **Direct and followers-only toots:** All toots are stored and processed on the server. Followers-only toots are delivered to your followers and users who are mentioned in them, and direct toots are delivered only to users mentioned in them. In some cases it means they are delivered to different servers and copies are stored there. We make a good faith effort to limit the access to those toots only to authorized persons, but other servers may fail to do so. Therefore it's important to review servers your followers belong to. You may toggle an option to approve and reject new followers manually in the settings. Please keep in mind that the operators of the server and any receiving server may view such messages, and that recipients may screenshot, copy or otherwise disseminate them. Do not share any sensitive information over Mastodon.
 
