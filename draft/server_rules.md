@@ -40,6 +40,8 @@ The advocation for or promotion of the following topics is expressly prohibited 
 - Sexism
 - Ableism
 - Fatmisia
+- Transphobia
+- Homophobia
 - Xenophobia
 - Violent nationalism
 - National Socialism, Holocaust denial, or Nazi symbolism
