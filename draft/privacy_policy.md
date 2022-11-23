@@ -72,7 +72,7 @@ The Liner Notes Club Privacy Policy was last updated November, 2022.
 As of November, 2022, Liner Notes Club has the following warrant canaries posted:
 
 * Liner Notes Club has never installed any law enforcement software or equipment anywhere on our network.
-* Liner Notes Club has never provided any law enforcement organization access to content stored on Liner Notes Club infrastructure.
+* Liner Notes Club has never provided any law enforcement organization access to information or content stored on Liner Notes Club infrastructure.
 * Liner Notes Club has never modified the intended destination of DNS responses at the request of law enforcement or another third party.
 * Liner Notes Club has never weakened, compromised, or subverted any of its encryption at the request of law enforcement or another third party.
 
