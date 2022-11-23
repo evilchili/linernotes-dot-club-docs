@@ -6,6 +6,14 @@
 
 If you are looking for a Mastodon instance without a strong local theme, we recommend exploring other options using the tools at [https://instances.social/](https://instances.social/).
 
+## The Administration Team
+
+The Club's administrators and moderators are:
+
+- @djsundog
+- @dustin
+- @evilchili
+
 # Terms of Use
 
 PLEASE READ THIS TERMS OF USE AGREEMENT (THE "TERMS OF USE") CAREFULLY BEFORE REGISTERING OR PARTICIPATING IN LINER NOTES CLUB ("THE CLUB") AT ENTRY-POINT URL https://linernotes.club. BY USING THE CLUB, YOU SIGNIFY AND ACKNOWLEDGE THAT YOU HAVE READ THE TERMS OF USE AND AGREE TO BE BOUND BY AND COMPLY WITH THE TERMS OF USE. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF USE, PLEASE DO NOT ACCESS THE CLUB.
@@ -16,7 +24,7 @@ Participants on the Club must adhere to the Server Rules [LINK]. By accessing th
 
 ## Age Restrictions
 
-Registration and participation on the Club is restricted to those individuals over 18 years of age, emancipated minors, or those who possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties herein. By registering or participating in services or functions on the Sites, you hereby represent that you are over 18 years of age, an emancipated minor or in possession of consent by a legal parent or guardian and have the authority to enter into the terms herein. In any case, you affirm that you are over the age of 13 as the Club is not intended for children under 13. If you are under 13 years of age, do not use the Club. In addition, those who wish to register and participate must meet the minimum requirements laid out in the Terms of Use (this document) herein. If you do not qualify or do not agree to these terms, you may not use the Club.
+Registration and participation on the Club is restricted to those individuals over 18 years of age, emancipated minors, or those who possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties herein. By registering or participating in services or functions of the Club, you hereby represent that you are over 18 years of age, an emancipated minor or in possession of consent by a legal parent or guardian and have the authority to enter into the terms herein. In any case, you affirm that you are over the age of 13 as the Club is not intended for children under 13. If you are under 13 years of age, do not use the Club. In addition, those who wish to register and participate must meet the minimum requirements laid out in the Terms of Use (this document) herein. If you do not qualify or do not agree to these terms, you may not use the Club.
 
 ## Right of Modification
 
@@ -32,18 +40,21 @@ This code of conduct applies to all users of the Club, including its administrat
 
 ## Guidleines
 
-- **Be welcoming**. We strive to be a community that welcomes people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, religion, and mental and physical ability.
+- **Be welcoming**. We strive to be a community that welcomes people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, religion, neurodiversity, and physical ability.
 - **Be respectful**. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. Members of the Club should be respectful of each other and of other users in the Fediverse.
-- **Be careful in the words that you choose.** Be kind to others. Do not insult or put down others or belittle their experiences.
+- **Choose your words with care.** Be kind to others. Do not insult or put down others or belittle their experiences.
 - **Make it easy for others to moderate their experience**. Liberally use Content Warnings, hashtags, and unlisted/"Followers Only" posts so others can choose whether to engage with your content.
-- **De-escalate**. In general, if someone asks you to stop, then stop. Avoid microaggressions ("not all men," white/man/cis-splaining, using the wrong pronouns to address someone, and so on). If you make a mistake, apologize.
+- **De-escalate**. In general, if someone asks you to stop, then stop. Avoid microaggressions such as "not all men," white/man/cis-splaining, knowingly using the wrong pronouns to address someone, posting about particular individuals without naming them ("subtooting"), and so on. If you make a mistake, apologize.
 - **No Gate-Keeping**. We love all kinds of music in the Club, including much that you may not love. Accept and celebrate that *we* love it.
 - **Be friendly**. Don't be a dick.
 
-## Reporting Violations
+# Document Revision History
 
-If you believe someone is violating the code of conduct, we ask that you report it by [reporting guidelines].
+The Liner Notes Club Terms of Use was last updated November, 2022.
 
+Summary of changes: 
+
+- First revision.
 
 ## Sources
 

@@ -85,11 +85,13 @@ All original content is copyrighted by the artist and cannot be distributed or u
 
 # 4. Moderation
 
-If you believe someone is violating the Club's Terms of Use, including its Code of Conduct and the Server Rules, please contact the Club's moderation team.
+If you believe someone is violating the code of conduct, we ask that you submit a report when you block the user or instance. Provide as much detail as is necessary for the Club's moderation team to have the context required to fully investigate the issue.
 
-## 4.1 User Suspensions
+If you are reporting a user on an instance other than Liner Notes Club, please be sure to forward the report to the user's instance also.
 
-We have a zero-tolerance policy for violations of our Terms of Use including the Code of Conduct and the Server Rules and will aggressively suspend users who willfully violate them.
+## 4.1 User Suspensions and Terminations
+
+We have a zero-tolerance policy for violations of our Terms of Use including the Code of Conduct and the Server Rules and will aggressively suspend or terminate outright users who willfully violate them.
 
 ## 4.2 Arbitration 
 
@@ -102,4 +104,4 @@ Users who cannot moderate their own behaviour, their own safety, or resolve disp
 We strongly believe that the Fediverse works best when users exercise their own agency. Accordingly, we prefer individual actions such as users muting or blocking other users and instances over instance-level policy changes such as defederation.
 
 However, the Club's administrators and their delegates will summarily and with prejudice 
-silence, suspend or defederate from instances whose users regularly violate our Code of Conduct.You may comport yourself however you wish; we are not required to provide you a platform to do so.
+silence or block (defederate) from instances whose users regularly violate our Code of Conduct. You may comport yourself however you wish; we are not required to provide you a platform to do so.
