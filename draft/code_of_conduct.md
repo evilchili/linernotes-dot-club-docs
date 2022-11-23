@@ -25,7 +25,7 @@ PLEASE READ THIS TERMS OF USE AGREEMENT (THE "TERMS OF USE") CAREFULLY BEFORE RE
 
 Participants on the Club must adhere to the Server Rules [LINK]. By accessing the Club, you hereby represent that you have read the Server Rules and agree to comply with them.
 
-## Govering Law 
+## Governing Law 
 
 Liner Notes Club is located in Georgia, United States of America. You agree that these Terms will be governed by the laws of the State of Georgia, excluding its conflicts of law provisions. 
 
@@ -44,9 +44,9 @@ Music is universal. Music unites across all cultural, linguistic, and ideologica
 
 Whoever you are, wherever you are, if you love music, you are welcome here. Please help us ensure that *everyone* is welcome, by following these guidelines. This is not an exhaustive list of what we can and cannot do on linernotes.club. Take it in the spirit in which it is intended -- a guide to make it easier for everyone to participate in this community.
 
-This code of conduct applies to all users of the Club, including its administrators and moderators. Violation of this code may result in suspension from the Club. Additionally, violation of this code outside the Club may affect a person's ability to interact with the Club and its users.
+This code of conduct applies to all users of the Club, including its administrators and moderators. Violation of this Code may result in suspension from the Club. Additionally, violation of this code outside the Club may result in user suspensions, instance silencing or blocking (defederation).
 
-## Guidleines
+## Guidelines
 
 - **Be welcoming**. We strive to be a community that welcomes people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, religion, neurodiversity, and physical ability.
 - **Be respectful**. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. Members of the Club should be respectful of each other and of other users in the Fediverse.
@@ -56,7 +56,9 @@ This code of conduct applies to all users of the Club, including its administrat
 - **No Gate-Keeping**. We love all kinds of music in the Club, including much that you may not love. Accept and celebrate that *we* love it.
 - **Be friendly**. Don't be a dick.
 
-# Document Revision History
+# Document Status
+
+## Revision History
 
 The Liner Notes Club Terms of Use was last updated November, 2022.
 
