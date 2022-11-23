@@ -4,6 +4,8 @@ https://linernotes.club (hereafter "the Club") is a Mastodon instance owned and 
 
 ## Tenets
 
+When drafting our policies, we use these tenets to direct our thinking, make choices, and achieve consensus. These statements reflect the personal views of the Club administrators, and inform our policy-making decisions.
+
 1. **Open is better than closed.** We believe the Fediverse works best when users exercise their own agency. We prefer individual action, such as blocking another instance, over instance-level policy changes, such as defederation.
 1. **You are responsible for moderating your own experience.** Mastodon provides a rich set of tools for individuals to moderate their own experience on the Fediverse; you should use them. Instance moderators are not responsible for your safety or comfort.
 1. **You are responsible for moderating your own conduct.** The availability of personal moderation tools for others does not imply freedom from accountability for you.
