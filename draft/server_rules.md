@@ -60,7 +60,7 @@ Content Warnings are not expected on posts made by historically or socially marg
 
 ## 1.5 Accesibility
 
-In addition to the liberal use of Content Warnings for *Off-Topic Content* or *Sensitive Content* (see sections 1.2 and 1.3), we have the following accessibility requirements:
+In addition to the liberal use of Content Warnings for *Off-Topic Content* and  *Sensitive Content* (see sections 1.2 and 1.3), we have the following accessibility requirements:
 
 - Images and videos must be captioned with a description suitable for users with limited vision.
 - Hashtags composed of multiple words must be composed with [CamelCase](https://en.wikipedia.org/wiki/Camel_case), to make them accessible to assistive technologies such as screen readers.
