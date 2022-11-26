@@ -76,7 +76,7 @@ Cross-posting from other social media platforms to the Club is not permitted.
 
 Bots are permitted under the following requirements:
 
-- Bots must be pre-approved by the Club moderation team
+- Bots must be pre-approved by the Club Moderation Team
 - Bots are restricted to on-topic content only; see section 1.1
 - All toots by bots must be tagged with #bot to permit easy muting/filtering
 
@@ -100,13 +100,13 @@ All original content is copyrighted by the author and cannot be distributed or u
 
 The Club's administrators and their delegates will summarily and with prejudice suspend or terminate users who violate the Club's Terms of Service, and silence or block (defederate from) instances enabling those users. You may comport yourself however you wish; we are not required to provide you a platform to do so.
 
-If you believe someone is violating Code of Conduct, we ask that you submit a report when you block the user or instance. Provide as much detail as is necessary for the Club's moderation team to have the context required to fully investigate the issue.
+If you believe someone is violating Code of Conduct, we ask that you submit a report when you block the user or instance. Provide as much detail as is necessary for the Club's Moderation Team to have the context required to fully investigate the issue.
 
 If you are reporting a user on an instance other than Liner Notes Club, please be sure to forward the report to the user's instance also.
 
 ## 4.1 Our Responsibilities
 
-The administrators and moderation team will endeavour to:
+The Administrators and Moderation Team will endeavour to:
 
 - Lead by example, abiding by the Terms of Use.
 - Keep the atmosphere of the Club as welcoming and enjoyable as possible.
@@ -122,7 +122,7 @@ We will not act on complaints regarding:
 
 ## 4.2 Corrective Actions
 
-The following are some examples of corrective actions the moderation team may enact in specific situations. **These are examples only and meant to illustrate our general approach to moderation**. Each incident of reported unacceptable behaviour will be handled on its own merits.
+The following are some examples of corrective actions the Moderation Team may enact in specific situations. **These are examples only and meant to illustrate our general approach to moderation**. Each incident of reported unacceptable behaviour will be handled on its own merits.
 
 **If you are a Club member and violate our Terms of Use**, we will: 
 
@@ -133,7 +133,7 @@ The following are some examples of corrective actions the moderation team may en
 **If you are a user of a federated instance and harass one of our members**, we will:
 
 - suspend your account; and
-- inform your instance's moderation team.
+- inform your instance's Moderation Team.
 
 **If another instance explicitly or implicitly enables the posting of *Prohibited Content***, we will:
 
@@ -143,8 +143,22 @@ The following are some examples of corrective actions the moderation team may en
 
 - block (defederate from) the instance
 
-## 4.2 Appeals
+## 4.3 Accountability
 
-If you believe the moderation team has made an error in judgement or the corrective action(s) we have taken are inappropriate, please contact us. The moderation team acts in good faith and strives to always act fairly, but we will make mistakes and when we do we will embrace those mistakes and learn from them.
+### 4.3.1 Moderation Decisions
 
-In the event of a dispute, the Administrator may override the moderation team; their judgment is final.
+Moderated servers -- that is, instances that are silenced or blocked by us -- will be posted to https://linernotes.club/about.
+
+Changes to the moderated servers list will be posted using the #LinerNotesAdmin hashtag by one of the Moderation Team.
+
+### 4.3.2 Appeals
+
+If you believe the Moderation Team has made an error in judgement or the corrective action(s) we have taken are inappropriate, please contact us. The Moderation Meam acts in good faith and strives to always act fairly, but we will make mistakes and when we do we will embrace those mistakes and learn from them.
+
+In the event of a dispute, the Administrators may override the Moderation Team; their judgment is final.
+
+### 4.3.3 Changes to the Terms of Use
+
+The Administrators and Moderation Team will occasionally update these Terms of Use as necessary. Minor updates such as edits for clarity or changes in Moderation Team membership will be posted using the #LinerNotesAdmin hashtag by one of the Administators. Significant changes to policy, such as changes to the Code of Conduct, will be drafted and made available for review and feedback by Club users for at least 5 days. 
+
+Please refer to the *Document Status* section for a complete revision history.
