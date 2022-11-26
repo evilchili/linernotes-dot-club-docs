@@ -125,19 +125,23 @@ We will not act on complaints regarding:
 The following are some examples of corrective actions the moderation team may enact in specific situations. **These are examples only and meant to illustrate our general approach to moderation**. Each incident of reported unacceptable behaviour will be handled on its own merits.
 
 **If you are a Club member and violate our Terms of Use**, we will: 
-    - suspend your account;
-    - inform you via email of the suspension and the reasons for it; and
-    - explain what you need to do to be reinstated, such as apologize to affected parties or agree not to continue posting *Prohibited Content*.
+
+- suspend your account;
+- inform you via email of the suspension and the reasons for it; and
+- explain what you need to do to be reinstated, such as apologize to affected parties or agree not to continue posting *Prohibited Content*.
 
 **If you are a user of a federated instance and harass one of our members**, we will:
-    - suspend your account; and
-    - inform your instance's moderation team.
+
+- suspend your account; and
+- inform your instance's moderation team.
 
 **If another instance explicitly or implicitly enables the posting of *Prohibited Content***, we will:
-    - silence the instance
+
+- silence the instance
 
 **If another instance explicitly or implicitly promotes hate speech or enables harassment of others**, we will:
-    - block (defederate from) the instance
+
+- block (defederate from) the instance
 
 ## 4.2 Appeals
 
