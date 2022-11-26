@@ -135,11 +135,11 @@ The following are some examples of corrective actions the Moderation Team may en
 - suspend your account; and
 - inform your instance's Moderation Team.
 
-**If another instance explicitly or implicitly enables the posting of *Prohibited Content***, we will:
+**If another instance fails to actively moderate the posting of *Prohibited Content* via weak moderation**, we will:
 
 - silence the instance
 
-**If another instance explicitly or implicitly promotes hate speech or enables harassment of others**, we will:
+**If another instance explicitly or implicitly enables the posting of *Prohibited Content* or enables harassment, trolling, doxxing, and so on**, we will:
 
 - block (defederate from) the instance
 
