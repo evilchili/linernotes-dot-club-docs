@@ -2,7 +2,7 @@
 
 [Liner notes](https://en.wikipedia.org/wiki/Liner_notes) are the printed text and graphical content often added to the packaging of musical recordings. Sometimes they contain little more than the list of songs and the people involved with recording them. Other times they contain fantastic inside looks at the recording process for an album, the song lyrics, critical reviews of the recording, mixed media explorations of the music's themes and content, and more.
 
-[Liner Notes Club](https://linernotes.club) is a Mastodon instance dedicated to providing fans of recorded music with a place to socialize and share their love of making and listening to recorded music.
+[Liner Notes Club](https://linernotes.club) is a Mastodon instance dedicated to providing fans of music with a place to socialize and share their love of making and listening to music.
 
 If you are looking for a Mastodon instance without a strong local theme, we recommend exploring other options using the tools at [https://instances.social/](https://instances.social/).
 

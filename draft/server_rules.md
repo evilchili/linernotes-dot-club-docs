@@ -94,26 +94,53 @@ Federating with the Club is not guaranteed. Links between federated instances ar
 
 Public toots are derived works that are protected by copyright.
 
-All original content is copyrighted by the artist and cannot be distributed or used without prior permission by the artist. Do not repost or disseminate our artist's original content anywhere without their express permission.
+All original content is copyrighted by the author and cannot be distributed or used without prior permission by the author. Do not repost or disseminate our users' original content anywhere without their express permission.
 
 # 4. Moderation
 
-If you believe someone is violating the code of conduct, we ask that you submit a report when you block the user or instance. Provide as much detail as is necessary for the Club's moderation team to have the context required to fully investigate the issue.
+The Club's administrators and their delegates will summarily and with prejudice suspend or terminate users who violate the Club's Terms of Service, and silence or block (defederate from) instances enabling those users. You may comport yourself however you wish; we are not required to provide you a platform to do so.
+
+If you believe someone is violating Code of Conduct, we ask that you submit a report when you block the user or instance. Provide as much detail as is necessary for the Club's moderation team to have the context required to fully investigate the issue.
 
 If you are reporting a user on an instance other than Liner Notes Club, please be sure to forward the report to the user's instance also.
 
-## 4.1 User Suspensions and Terminations
+## 4.1 Our Responsibilities
 
-We have a zero-tolerance policy for violations of our Terms of Use including the Code of Conduct and the Server Rules and will aggressively suspend or terminate outright users who willfully violate them.
+The administrators and moderation team will endeavour to:
 
-## 4.2 Arbitration 
+- Lead by example, abiding by the Terms of Use.
+- Keep the atmosphere of the Club as welcoming and enjoyable as possible.
+- Keep the Club online and functional for as long as possible.
+- Clarify the standards of acceptable behaviour.
+- Enforcing the Terms of Use with appropriate corrective actions when users are found to be in violation.
 
-The moderation team is responsible for enforcing the Terms of Use and will investigate and resolve reports of violations of the Terms of Use (see section 4.1), but are not responsible for regulating people's behaviour or resolving personal disputes.
+We will not act on complaints regarding:
 
-Users who cannot moderate their own behaviour, their own safety, or resolve disputes amongst themselves, may be suspended, at the sole discretion of the moderation team.
+- Good-faith criticism such as "This is sexist," "That comes off as tone deaf," "This comment offends me," and so on. Instead of reporting this kind of feedback, engage with it, apologize, or agree to disagree and move on.
+- Swearing or profanity. Use filters or mute/block users whose language you don't enjoy.
+- Reasonable communication of boundaries, such as "leave me alone," "go away," or "I’m not discussing this with you".
 
-## 4.3 Blocks, Suspensions, and Defederation
+## 4.2 Corrective Actions
 
-We strongly believe that the Fediverse works best when users exercise their own agency. Accordingly, we prefer individual actions such as users muting or blocking other users and instances over instance-level policy changes such as defederation.
+The following are some examples of corrective actions the moderation team may enact in specific situations. **These are examples only and meant to illustrate our general approach to moderation**. Each incident of reported unacceptable behaviour will be handled on its own merits.
 
-However, the Club's administrators and their delegates will summarily and with prejudice silence or block (defederate from) instances whose users regularly violate our Code of Conduct. You may comport yourself however you wish; we are not required to provide you a platform to do so.
+**If you are a Club member and violate our Terms of Use**, we will: 
+    - suspend your account;
+    - inform you via email of the suspension and the reasons for it; and
+    - explain what you need to do to be reinstated, such as apologize to affected parties or agree not to continue posting *Prohibited Content*.
+
+**If you are a user of a federated instance and harass one of our members**, we will:
+    - suspend your account; and
+    - inform your instance's moderation team.
+
+**If another instance explicitly or implicitly enables the posting of *Prohibited Content***, we will:
+    - silence the instance
+
+**If another instance explicitly or implicitly promotes hate speech or enables harassment of others**, we will:
+    - block (defederate from) the instance
+
+## 4.2 Appeals
+
+If you believe the moderation team has made an error in judgement or the corrective action(s) we have taken are inappropriate, please contact us. The moderation team acts in good faith and strives to always act fairly, but we will make mistakes and when we do we will embrace those mistakes and learn from them.
+
+In the event of a dispute, the Administrator may override the moderation team; their judgment is final.
