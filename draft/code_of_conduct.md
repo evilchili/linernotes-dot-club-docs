@@ -8,13 +8,21 @@ If you are looking for a Mastodon instance without a strong local theme, we reco
 
 ## The Administration Team
 
-The Club's administrators and moderators are:
+The Club is owned and operated by:
+
+- @djsundog
+
+## The Moderation Team
+
+The Club's moderators are:
 
 - @djsundog
 - @dustin
 - @evilchili
 
-To contact the Administration team with questions or concerns, please use the contact email address listed on http://linernotes.club or message the admin team directly on Mastodon.
+Moderators also share administration duties, though final authority rests with the Administation Team; refer to section *4.3 Accountability* for details.
+
+To contact the Administration team with questions or concerns, please use the contact email address listed on https://linernotes.club or message the Moderation Team directly on Mastodon.
 
 
 # Terms of Use
@@ -68,5 +76,4 @@ Summary of changes:
 
 ## Sources
 
-Inspiration for this Code of Conduct was found in [The Django Project](https://www.djangoproject.com/conduct/), [Mastodon.ART](https://mastodon.art) and many others. Portions of the Terms of Use were adapted from [Coursera's policies](https://www.coursera.org/about/terms).
-
+Inspiration for this Code of Conduct was found in [The Django Project](https://www.djangoproject.com/conduct/), [Mastodon.ART](https://mastodon.art) and many others. Portions of the Terms of Use were adapted from [Coursera's policies](https://www.coursera.org/about/terms) and [aus.social's Terms of Use](https://aus.social/about).
