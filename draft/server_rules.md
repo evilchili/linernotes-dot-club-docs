@@ -153,7 +153,7 @@ Changes to the moderated servers list will be posted using the #LinerNotesAdmin 
 
 ### 4.3.2 Appeals
 
-If you believe the Moderation Team has made an error in judgement or the corrective action(s) we have taken are inappropriate, please contact us. The Moderation Meam acts in good faith and strives to always act fairly, but we will make mistakes and when we do we will embrace those mistakes and learn from them.
+If you believe the Moderation Team has made an error in judgement or the corrective action(s) we have taken are inappropriate, please contact us. The Moderation Team acts in good faith and strives to always act fairly, but we will make mistakes and when we do we will embrace those mistakes and learn from them.
 
 In the event of a dispute, the Administrators may override the Moderation Team; their judgment is final.
 
