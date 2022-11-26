@@ -157,7 +157,11 @@ If you believe the Moderation Team has made an error in judgement or the correct
 
 In the event of a dispute, the Administrators may override the Moderation Team; their judgment is final.
 
-### 4.3.3 Changes to the Terms of Use
+### 4.3.3 Requests for Clarification
+
+If you require clarification of these Terms of Use, or are unsure how to handle a potential violation of these Terms, please message the Moderation Team directly on Mastodon.
+
+### 4.3.4 Changes to the Terms of Use
 
 The Administrators and Moderation Team will occasionally update these Terms of Use as necessary. Minor updates such as edits for clarity or changes in Moderation Team membership will be posted using the #LinerNotesAdmin hashtag by one of the Administators. Significant changes to policy, such as changes to the Code of Conduct, will be drafted and made available for review and feedback by Club users for at least 5 days. 
 
